@@ -13,7 +13,7 @@ var theDiv;
 
 var slider1 = document.getElementById("range1");
 
-var doLiveVideo = false; // togggle between live feed and static image
+var doLiveVideo = true; // togggle between live feed and static image
 
 function preload() {
     // get image to convert
