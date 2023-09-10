@@ -1,0 +1,12 @@
+body {
+    color: white;
+    background-color: black;
+    font-family: 'Courier';
+    padding: 0;
+    margin: 0;
+    font-size: 12pt;
+    line-height: 8pt;
+    text-overflow: clip;
+    white-space: nowrap;
+    overflow: scroll;
+}
